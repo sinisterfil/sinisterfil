@@ -1,7 +1,6 @@
 ## Hatice Eslem Bayram
 
-Software Engineering student with a strong interest in system-level programming,
-backend development, and software architecture.
+Software Engineering 3rd year student.
 
 I enjoy working on projects that require analytical thinking, structured problem
 solving, and a deep understanding of how software systems operate end-to-end.
